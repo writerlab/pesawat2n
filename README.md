@@ -1,11 +1,11 @@
-# pesawt2an ✈️
-Watch tutorial [here](https://www.youtube.com/watch?v=UhkOjkxQWuc).
+# Plane Shooter ✈️
+[source YT](https://www.youtube.com/watch?v=UhkOjkxQWuc).
 
-## requirement
-- Python 3.7.9 or later
-- pygame 2.0.1
+## Requirements:
+- Python 3.9.10 or later
+- pygame 2.1.2
 
-## install
+## How to run:
 - clone or download this [repo](https://github.com/writerlab/pesawat2n).
 - extract
 - `$ pip install -r requirement.txt`
